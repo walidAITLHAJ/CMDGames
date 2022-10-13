@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -22,7 +22,7 @@
 
 
 You can contribute in different languages like C, C++, Python, Java, JS, Ruby, etc. Just put the code in the right directory (or create one if doesn't exist).
-We prefer well documented code, please read the [CONTRIBUTING.md](https://github.com/choubari/Commandline-Games-hacktoberfest/blob/main/CONTRIBUTING.md)
+We prefer well documented code, please read the [CONTRIBUTING.md](https://github.com/walidAITLHAJ/CMDGames/blob/main/CONTRIBUTING.md)
 
 
 # 🔥 How to contribute 🔥
